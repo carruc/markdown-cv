@@ -111,14 +111,14 @@ Developed functionality in Java
 <br />
 
 `2024`
-- Attention Mechanism Overview, Google
-- Encoder-Decoder Architecture Overview, Google
-- Introduction to Large Language Models, Google
-- Academic Writing Made Easy, edX
+Attention Mechanism Overview, [Google](https://www.cloudskillsboost.google/public_profiles/fb5984d0-d1bb-496c-8a74-57fe0e44c93b/badges/11688343?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+Encoder-Decoder Architecture Overview, [Google](https://www.cloudskillsboost.google/public_profiles/fb5984d0-d1bb-496c-8a74-57fe0e44c93b/badges/11687200?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+Introduction to Large Language Models, [Google](https://www.cloudskillsboost.google/public_profiles/fb5984d0-d1bb-496c-8a74-57fe0e44c93b/badges/11680893?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+Academic Writing Made Easy, [edX](https://courses.edx.org/certificates/1df4b633f8954c37aa0c338b83061222)
 
 `2022`
-- Cambridge C2 Proficiency (Score: 220)
-- Climate Change: The Science and Global Impact, SDG Academy
+Cambridge C2 Proficiency (Score: 220), [Cambridge](https://www.cambridgeenglish.org/exams-and-tests/proficiency/)
+Climate Change: The Science and Global Impact, [SDG Academy](https://courses.edx.org/certificates/b18e73c4a06641ecb3bc6230de23eef1)
 
 
 ## Skills:
@@ -127,20 +127,20 @@ Developed functionality in Java
 <br />
 
 ### Technical
-- _Programming:_ Python, Java, C, SQL, Shell
-- _Tools:_ JavaFX, Material UI, LaTeX, JDBC, IP suite
-- _Concepts:_ Data Structures, Software Project Management, Shell Scripting
+_Programming:_ Python, Java, C, SQL, Shell
+_Tools:_ JavaFX, Material UI, LaTeX, JDBC, IP suite
+_Concepts:_ Data Structures, Software Project Management, Shell Scripting
 
 ### Engineering
-- Thinking across different abstraction layers
-- Applying patterns learned across different disciplines to real-world problems
-- Understanding and quantifying tradeoffs for decision making
-- Working in a team (and organization)
-- Project planning and requirement analysis
+Thinking across different abstraction layers
+Applying patterns learned across different disciplines to real-world problems
+Understanding and quantifying tradeoffs for decision making
+Working in a team (and organization)
+Project planning and requirement analysis
 
 ### Languages
-- Italian (Native)
-- English (C2 Proficient)
+Italian (Native)
+English (C2 Proficient)
 
 <!-- ### Footer
 
