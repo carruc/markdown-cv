@@ -12,22 +12,22 @@ CompSci & Engineering MSc @ Politecnico di Milano
 | <a href="https://www.linkedin.com/in/pietro-carrucciu/"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
 </div>
 
-## Currently
+## Currently:
 
 Building a research-engineering hybrid profile. My ambition is optimizing efficiency and environmental impact of the current AI stack, improving models and training algorithms and developing real-world applications on the edge. To achieve this I'm specializing in ML, NLP, DL and AI, while following courses such as Distributed Systems and Computing Infrastructures.
 
 Always seeking opportunities to contribute to innovative projects in AI and sustainable technology.
 
-### Research Ambitions
+### Research Ambitions:
 
 Statistical Learning, Machine Learning, Energy-Efficient AI, Neuromorphic Computing, Sustainable Technology.
 
-### Beyond academics
+### Beyond academics:
 
 Neuroscience, reading, music-making and climate change. I've taken part to a philosophy study group for the last 3 years. 
 
 
-## Education
+## Education:
 <br />
 
 `2016 - 2021`
@@ -48,7 +48,7 @@ __Politecnico di Milano, Milano__
 - MSc in Computer Science and Engineering (AI-oriented)
 
 
-## Experience
+## Experience:
 <br />
 
 `03/2023 - 01/2024`
@@ -64,7 +64,7 @@ __Politecnico di Milano, Milano__
 - Built documentation for industrial sandblasting pipeline upgrades
 
 
-## Projects
+## Projects:
 <br />
 
 `07/2024 - 09/2024`
@@ -93,7 +93,7 @@ __Politecnico di Milano, Milano__
 - [GitHub Repository](https://github.com/carruc/FS_OnboardPC)
 
 
-## Certifications
+## Certifications:
 <br />
 
 `2024`
@@ -107,7 +107,7 @@ __Politecnico di Milano, Milano__
 - Climate Change: The Science and Global Impact, SDG Academy
 
 
-## Skills
+## Skills:
 
 ### Technical
 - Programming: Python, Java, C, SQL, Shell
