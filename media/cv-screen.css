@@ -175,6 +175,7 @@ a:hover {
 }
 
 #webaddress a {
+	color: #6c29ff;  /* Updated accent color */
 	text-decoration: none;
 }
 
