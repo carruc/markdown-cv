@@ -15,6 +15,7 @@ CompSci & Engineering MSc @ Politecnico di Milano
 ## Currently:
 <br />
 <br />
+<br />
 
 ### Degree
 Building a research-engineering hybrid profile. My ambition is optimizing efficiency and environmental impact of the current AI stack, improving models and training algorithms and developing real-world applications on the edge. To achieve this I'm specializing in ML, NLP, DL and AI, while following courses such as Distributed Systems and Computing Infrastructures.
@@ -33,6 +34,7 @@ Neuroscience, reading, music-making and climate change. I've taken part to a phi
 
 
 ## Education:
+<br />
 <br />
 <br />
 
@@ -57,6 +59,7 @@ __Politecnico di Milano, Milano__
 ## Experience:
 <br />
 <br />
+<br />
 
 `03/2023 - 01/2024`
 **Software Engineer**, MoRe Modena Racing (Combustion, Hybrid)
@@ -72,6 +75,7 @@ __Politecnico di Milano, Milano__
 
 
 ## Projects:
+<br />
 <br />
 <br />
 
@@ -104,6 +108,7 @@ __Politecnico di Milano, Milano__
 ## Certifications:
 <br />
 <br />
+<br />
 
 `2024`
 - Attention Mechanism Overview, Google
@@ -117,6 +122,7 @@ __Politecnico di Milano, Milano__
 
 
 ## Skills:
+<br />
 <br />
 <br />
 
