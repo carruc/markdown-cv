@@ -99,13 +99,12 @@ ul {
     margin-bottom: 1.5em;
     margin-top: -0.5em;
     list-style: disc;  /* Changed from none to disc */
-    left: -1em;
     padding-left: 0;   /* Remove default padding */
 }
 
 li {
     padding-left: 0;    /* Remove left padding */
-    text-indent: 1em;     /* Remove text indent */
+    text-indent: 1.5;     /* Remove text indent */
     margin-left: 1em;   /* Add margin for bullet alignment */
 }
 
@@ -121,7 +120,7 @@ li ul {
 li > em,
 li > strong {
     position: relative;
-    left: 1em;  /* Pull emphasized/strong text back to align with headings */
+    left: -1em;  /* Pull emphasized/strong text back to align with headings */
 }
 
 
