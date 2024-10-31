@@ -120,7 +120,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #6c29ff;  /* Updated accent color */
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
@@ -144,7 +144,7 @@ a {
 }
 
 a:hover {
-	color:#39f
+	color: #6c29ff;  /* Updated hover color */
 }
 
 #webaddress {
@@ -162,7 +162,7 @@ a:hover {
 
 em {
 	font-style: normal;
-	color: #2d4e5e 
+	color: #6c29ff;  /* Updated accent color */
 }
 
 strong {
