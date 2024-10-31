@@ -78,8 +78,7 @@ code {
 
 p code {
 	position: absolute;
-	text-align: left;
-	right: -14%;
+	left: -14%;
 }
 
 ul { 
