@@ -63,6 +63,7 @@ MSc in Computer Science and Engineering (AI-oriented)
 
 `03/2023 - 01/2024`
 **Software Engineer**, MoRe Modena Racing (Combustion, Hybrid)
+
 Developed real-time Telemetry System for Formula Student race car
 Division Leader ad interim, planning the development for the conversion to hybrid
 - _Tech Skills:_ Java, MQTT, JDBC, Python
@@ -70,6 +71,7 @@ Division Leader ad interim, planning the development for the conversion to hybri
 
 `07/2019 - 09/2019`
 **Intern**, L.A.G. SPA
+
 Assisted Automation/Mechatronics engineers
 Built documentation for industrial sandblasting pipeline upgrades
 
@@ -81,7 +83,8 @@ Built documentation for industrial sandblasting pipeline upgrades
 
 `07/2024 - 09/2024`
 **Bachelor Thesis: Energy Metrics for CMOS implementations of Spiking Neural Networks**, UniMoRe
-- _Tutor:_ [Professor Luca Selmi](https://personale.unimore.it/rubrica/dettaglio/lucaselmi001)
+
+_Tutor:_ [Professor Luca Selmi](https://personale.unimore.it/rubrica/dettaglio/lucaselmi001)
 Researched state-of-the-art neuromorphic devices and SNNs
 Analyzed energy efficiency of analog vs digital neuromorphic computing implementations
 Developed a comparison metric for 28nm CMOS-based artificial neurons and compared to standard benchmarks
@@ -90,16 +93,19 @@ Developed a comparison metric for 28nm CMOS-based artificial neurons and compare
 
 `01/2024 - 03/2024`
 **Smart Nursing Home**, UniMoRe
+
 Developed IoT system with digital twins and live patient monitoring
 - [GitHub Repository](https://github.com/carruc/IIOTProject)
 
 `06/2023 - 07/2023`
 **LC-Efesto**, UniMoRe
+
 Developed tool for STEM mathematics and conversion problems
 - [GitHub Repository](https://github.com/carruc/LCEfesto)
 
 `03/2023 - 07/2023`
 **FS-Onboard**, MoRe Modena Racing
+
 Designed car's dynamic digital twin and CAN message converter library
 Developed functionality in Java
 - [GitHub Repository](https://github.com/carruc/FS_OnboardPC)
@@ -120,26 +126,26 @@ Academic Writing Made Easy, [edX](https://courses.edx.org/certificates/1df4b633f
 Cambridge C2 Proficiency (Score: 220), [Cambridge](https://www.cambridgeenglish.org/exams-and-tests/proficiency/)<br />
 Climate Change: The Science and Global Impact, [SDG Academy](https://courses.edx.org/certificates/b18e73c4a06641ecb3bc6230de23eef1)
 
-## Skills:
+## Applied Skills:
 <br />
 <br />
 <br />
 
 ### Technical
-_Programming:_ Python, Java, C, SQL, Shell
-_Tools:_ JavaFX, Material UI, LaTeX, JDBC, IP suite
-_Concepts:_ Data Structures, Software Project Management, Shell Scripting
+_Programming:_ Python, Java, C, SQL, Shell<br />
+_Tools:_ JavaFX, Material UI, LaTeX, JDBC, IP suite<br />
+_Concepts:_ Data Structures, Software Project Management<br />
 
 ### Engineering
-Thinking across different abstraction layers
-Applying patterns learned across different disciplines to real-world problems
-Understanding and quantifying tradeoffs for decision making
-Working in a team (and organization)
-Project planning and requirement analysis
+Thinking across different abstraction layers<br />
+Applying patterns learned across different disciplines to real-world problems<br />
+Understanding and quantifying tradeoffs for decision making<br />
+Working in a team (and organization)<br />
+Project planning and requirement analysis<br />
 
 ### Languages
-Italian (Native)
-English (C2 Proficient)
+Italian (Native)<br />
+English (C2 Proficient)<br />
 
 <!-- ### Footer
 
