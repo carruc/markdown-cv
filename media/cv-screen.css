@@ -121,6 +121,12 @@ li ul {
     margin-top: 0.25em;
 }
 
+/* For labels like "Engineering Skills:" */
+li strong, 
+li em {
+    display: inline; /* Keep inline with rest of text */
+}
+
 h1,h2,h3,h4 {
 	font-weight: 400;  /* Explicitly set normal weight */
 	font-family: "Inter UI", "Inter", -apple-system, system-ui, sans-serif;
