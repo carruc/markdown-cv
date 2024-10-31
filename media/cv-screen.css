@@ -102,6 +102,7 @@ li ul {
 }
 
 h1,h2,h3,h4 {
+	font-weight: 400;  /* Explicitly set normal weight */
 	font-family: "Inter UI", "Inter", -apple-system, system-ui, sans-serif;
 	width: 80%;
 }
@@ -134,7 +135,6 @@ h2 {
 }
 
 h3 {
-	font-weight: 400;
 	font-size: 1em;
 	color: #aaa;
 	line-height: 2em; 
