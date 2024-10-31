@@ -93,32 +93,24 @@ p:has(code) {
 }
 
 ul { 
-	position: relative;
-	left: 25%;
-	width: 75%;
-	margin-bottom: 1.5em;
-	margin-top: -0.5em;
+    position: relative;
+    left: 25%;
+    width: 60%;  /* Match the width of your regular text */
+    margin-bottom: 1em;
+    margin-top: 0;  /* Remove negative margin */
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
-
 li {
-	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: 1.25em;
-	/*color: #777;*/
+    padding-left: 1em;  /* Reduced padding */
+    text-indent: -1em;  /* Matching negative indent */
+    margin-bottom: 0.2em;  /* Add some spacing between list items */
 }
 
 li ul {
-	position: relative;
-	left: 0;
-	width: 100%;
-	margin-top: 0.25em;
+    position: relative;
+    left: 0;
+    width: 100%;
+    margin-top: 0.25em;
 }
 
 h1,h2,h3,h4 {
