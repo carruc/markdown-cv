@@ -93,24 +93,36 @@ p:has(code) {
 }
 
 ul { 
-	position: relative;
-	left: 25%;
-	width: 75%;
-	margin-bottom: 1.5em;
-	margin-top: -0.5em;
+    position: relative;
+    left: 25%;
+    width: 75%;
+    margin-bottom: 1.5em;
+    margin-top: -0.5em;
+    list-style: disc;  /* Changed from none to disc */
+    padding-left: 0;   /* Remove default padding */
 }
 
 li {
-	padding-left: 1.25em;
-	text-indent: -1.25em;
+    padding-left: 0;    /* Remove left padding */
+    text-indent: 0;     /* Remove text indent */
+    margin-left: 1em;   /* Add margin for bullet alignment */
 }
 
+/* Specific styling for nested lists */
 li ul {
-	position: relative;
-	left: 0;
-	width: 100%;
-	margin-top: 0.25em;
+    position: relative;
+    left: 0;
+    width: 100%;
+    margin-top: 0.25em;
 }
+
+/* Style for the text content in lists */
+li > em,
+li > strong {
+    position: relative;
+    left: -1em;  /* Pull emphasized/strong text back to align with headings */
+}
+
 
 h1,h2,h3,h4 {
 	font-weight: 400;  /* Explicitly set normal weight */
