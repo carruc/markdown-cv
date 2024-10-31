@@ -80,15 +80,14 @@ p code {
     display: inline-block;
     position: absolute;
     width: 20%;
-    left: -25%;  /* Aligns with h2/h3 */
+    left: -27%;  /* Adjusted to match h2/h3 alignment */
     text-align: right;
-    padding-right: 2%;  /* Space between left column and main content */
+    padding-right: 2%;
 }
 
-/* Add spacing for paragraphs containing dates */
+/* Ensure proper positioning context */
 p:has(code) {
-    position: relative;  /* Creates positioning context */
-    margin-top: 0.5em;  /* Add some space above */
+    position: relative;
 }
 
 ul { 
