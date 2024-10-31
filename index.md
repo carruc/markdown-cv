@@ -37,13 +37,13 @@ Neuroscience, reading, music-making and climate change. I've taken part to a phi
 __ITIS E. Fermi, Modena__
 
 - Electronics and Automation Track
-- Tech Skills: Control Systems, Electronics, Electrical and Electronic Systems Design
+- _Tech Skills:_ Control Systems, Electronics, Electrical and Electronic Systems Design
 
 `2021 - 2024`
 __University of Modena and Reggio Emilia, Modena__
 
 - BSc in Computer Engineering
-- Tech Skills: Shell Scripting, Python, C, Data Structures, SQL, Java
+- _Tech Skills:_ Shell Scripting, Python, C, Data Structures, SQL, Java
 
 `2024 - now`
 __Politecnico di Milano, Milano__
@@ -58,8 +58,8 @@ __Politecnico di Milano, Milano__
 **Software Engineer**, MoRe Modena Racing (Combustion, Hybrid)
 - Developed real-time Telemetry System for Formula Student race car
 - Division Leader ad interim, planning the development for the conversion to hybrid
-- Tech Skills: Java, MQTT, JDBC, Python
-- Engineering Skills: Multi-team coordination, satisfying requirements of different stakeholders, project planning
+- _Tech Skills:_ Java, MQTT, JDBC, Python
+- _Engineering Skills:_ Multi-team coordination, satisfying requirements of different stakeholders, project planning
 
 `07/2019 - 09/2019`
 **Intern**, L.A.G. SPA
@@ -113,9 +113,9 @@ __Politecnico di Milano, Milano__
 ## Skills:
 
 ### Technical
-- Programming: Python, Java, C, SQL, Shell
-- Tools: JavaFX, Material UI, LaTeX, JDBC, IP suite
-- Concepts: Data Structures, Software Project Management, Shell Scripting
+- _Programming:_ Python, Java, C, SQL, Shell
+- _Tools:_ JavaFX, Material UI, LaTeX, JDBC, IP suite
+- _Concepts:_ Data Structures, Software Project Management, Shell Scripting
 
 ### Engineering
 - Thinking across different abstraction layers
