@@ -111,15 +111,17 @@ Developed functionality in Java
 <br />
 
 `2024`
-Attention Mechanism Overview, [Google](https://www.cloudskillsboost.google/public_profiles/fb5984d0-d1bb-496c-8a74-57fe0e44c93b/badges/11688343?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+Attention Mechanism Overview, [Google](https://www.cloudskillsboost.google/public_profiles/fb5984d0-d1bb-496c-8a74-57fe0e44c93b/badges/11688343?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)<br />
+
 Encoder-Decoder Architecture Overview, [Google](https://www.cloudskillsboost.google/public_profiles/fb5984d0-d1bb-496c-8a74-57fe0e44c93b/badges/11687200?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+
 Introduction to Large Language Models, [Google](https://www.cloudskillsboost.google/public_profiles/fb5984d0-d1bb-496c-8a74-57fe0e44c93b/badges/11680893?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+
 Academic Writing Made Easy, [edX](https://courses.edx.org/certificates/1df4b633f8954c37aa0c338b83061222)
 
 `2022`
-Cambridge C2 Proficiency (Score: 220), [Cambridge](https://www.cambridgeenglish.org/exams-and-tests/proficiency/)
+Cambridge C2 Proficiency (Score: 220), [Cambridge](https://www.cambridgeenglish.org/exams-and-tests/proficiency/)<br />
 Climate Change: The Science and Global Impact, [SDG Academy](https://courses.edx.org/certificates/b18e73c4a06641ecb3bc6230de23eef1)
-
 
 ## Skills:
 <br />
