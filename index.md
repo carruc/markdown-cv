@@ -18,11 +18,11 @@ Building a research-engineering hybrid profile. My ambition is optimizing effici
 
 Always seeking opportunities to contribute to innovative projects in AI and sustainable technology.
 
-### Research Ambitions:
+### Research Ambitions
 
 Statistical Learning, Machine Learning, Energy-Efficient AI, Neuromorphic Computing, Sustainable Technology.
 
-### Beyond academics:
+### Beyond academics
 
 Neuroscience, reading, music-making and climate change. I've taken part to a philosophy study group for the last 3 years. 
 
