@@ -81,7 +81,7 @@ p code {
     display: inline-block;
     position: absolute;
     width: 20%;
-    left: 20%;  /* This puts it in line with h2/h3 */
+    left: 1%;  /* This puts it in line with h2/h3 */
     text-align: right;
 }
 
@@ -148,6 +148,10 @@ h3 {
 }
 
 a {
+	color: inherit;
+}
+
+a:link {
 	color: #6c29ff;
 }
 
