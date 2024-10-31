@@ -81,7 +81,7 @@ p code {
     display: inline-block;
     position: absolute;
     width: 20%;
-    left: -33%;  /* This puts it in line with h2/h3 */
+    left: 20%;  /* This puts it in line with h2/h3 */
     text-align: right;
 }
 
