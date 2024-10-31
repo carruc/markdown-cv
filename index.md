@@ -5,10 +5,11 @@ title: Pietro Carrucciu's CV
 # Pietro Carrucciu
 Computer Engineering graduate currently pursuing a Computer Science & Engineering Master's degree at Politecnico di Milano.
 
-<a href="mailto:pietro@carrucciu.com">pietro@carrucciu.com</a> - <a href="tel:3889599531">+39 3889599531</a>
-
 <div id="webaddress">
-<a href="https://github.com/carruc"><i class="fa-brands fa-github"></i> GitHub</a> - <a href="https://www.linkedin.com/in/pietro-carrucciu/"><i class="fa-brands fa-linkedin"></i> LinkedIn</a> - 
+<a href="mailto:pietro@carrucciu.com"><i class="fa-solid fa-envelope"></i> pietro@carrucciu.com</a>
+| <a href="tel:3889599531"><i class="fa-solid fa-phone"></i> +39 3889599531</a>
+| <a href="https://github.com/carruc"><i class="fa-brands fa-github"></i> GitHub</a>
+| <a href="https://www.linkedin.com/in/pietro-carrucciu/"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
 </div>
 
 ## Currently
