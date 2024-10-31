@@ -111,6 +111,7 @@ __Politecnico di Milano, Milano__
 
 
 ## Skills:
+<br />
 
 ### Technical
 - _Programming:_ Python, Java, C, SQL, Shell
