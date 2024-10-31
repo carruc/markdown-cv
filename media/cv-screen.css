@@ -92,23 +92,33 @@ p:has(code) {
     position: relative;
 }
 
+/* Base list styling */
 ul { 
     position: relative;
     left: 25%;
     width: 75%;
     margin-bottom: 1.5em;
     margin-top: -0.5em;
-    list-style: disc;  /* Changed from none to disc */
-    padding-left: 0;   /* Remove default padding */
 }
 
+/* List item styling */
 li {
-    padding-left: 0;    /* Remove left padding */
-    text-indent: 1.5;     /* Remove text indent */
-    margin-left: 1em;   /* Add margin for bullet alignment */
+    display: flex;  /* Use flexbox for better text alignment */
+    align-items: flex-start;
+    padding-left: 1.25em;
+    position: relative;
+    margin-bottom: 0.5em;
 }
 
-/* Specific styling for nested lists */
+/* Bullet point styling */
+li:before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+/* Nested list styling */
 li ul {
     position: relative;
     left: 0;
@@ -116,13 +126,24 @@ li ul {
     margin-top: 0.25em;
 }
 
-/* Style for the text content in lists */
-li > em,
-li > strong {
-    position: relative;
-    left: -1em;  /* Pull emphasized/strong text back to align with headings */
+/* Ensure all text types align properly */
+li em,
+li strong,
+li span,
+li a {
+    display: inline-block;
+    flex: 1;
 }
 
+/* Optional: style specific text elements */
+li em {
+    font-style: italic;
+    color: inherit;
+}
+
+li strong {
+    font-weight: bold;
+}
 
 h1,h2,h3,h4 {
 	font-weight: 400;  /* Explicitly set normal weight */
