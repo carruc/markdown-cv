@@ -118,7 +118,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
-	margin-top: 0.5em;  /* Added top margin */
+	margin-top: 1.5em;  /* Added top margin */
 }
 
 h1+p {
