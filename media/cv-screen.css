@@ -102,47 +102,23 @@ ul {
 }
 
 /* List item styling */
-li {
-    display: flex;  /* Use flexbox for better text alignment */
-    align-items: flex-start;
-    padding-left: 1.25em;
+ul { 
     position: relative;
-    margin-bottom: 0.5em;
+    left: 25%;
+    width: 60%;
+    margin-bottom: 1em;
 }
 
-/* Bullet point styling */
-li:before {
-    content: "•";
-    position: absolute;
-    left: 0;
-    top: 0;
+li {
+    padding-left: 1.25em;
+    text-indent: -1.25em;
 }
 
-/* Nested list styling */
 li ul {
     position: relative;
     left: 0;
     width: 100%;
     margin-top: 0.25em;
-}
-
-/* Ensure all text types align properly */
-li em,
-li strong,
-li span,
-li a {
-    display: inline-block;
-    flex: 1;
-}
-
-/* Optional: style specific text elements */
-li em {
-    font-style: italic;
-    color: inherit;
-}
-
-li strong {
-    font-weight: bold;
 }
 
 h1,h2,h3,h4 {
