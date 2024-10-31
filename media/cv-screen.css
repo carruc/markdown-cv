@@ -62,11 +62,11 @@ body {
 }
 
 p {
-	position: relative;
-	left: 25%;
-	margin-bottom: 0.7em;
-	margin-right: 0;
-	width: 55%;
+    position: relative;
+    left: 25%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 55%;
 }
 
 code {
@@ -76,13 +76,19 @@ code {
     color: #aaa;
 }
 
-/* Default code positioning for most sections */
 p code {
     display: inline-block;
-    position: relative;
+    position: absolute;
     width: 20%;
-    left: 1%;  /* This puts it in line with h2/h3 */
+    left: -25%;  /* Aligns with h2/h3 */
     text-align: right;
+    padding-right: 2%;  /* Space between left column and main content */
+}
+
+/* Add spacing for paragraphs containing dates */
+p:has(code) {
+    position: relative;  /* Creates positioning context */
+    margin-top: 0.5em;  /* Add some space above */
 }
 
 ul { 
@@ -127,24 +133,22 @@ h1+p {
 }
 
 h2 {
-	font-weight: bold; /*400;*/
-	font-size: 1.1em;
-	color: #6c29ff;  /* Updated accent color */
-	margin-top: 3em;
-	position: relative;
-	top: 1.4em;
-	text-align: right;
-	width: 20%;
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #6c29ff;
+    position: absolute;
+    width: 20%;
+    text-align: right;
+    padding-right: 2%;  /* Space between left column and main content */
 }
 
 h3 {
-	font-size: 1em;
-	color: #aaa;
-	line-height: 2em; 
-	position: relative;
-	top: 1.7em;
-	text-align: right;
-	width: 20%;
+    font-size: 1em;
+    color: #aaa;
+    position: absolute;
+    width: 20%;
+    text-align: right;
+    padding-right: 2%;  /* Space between left column and main content */
 }
 
 a {
