@@ -34,6 +34,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+}
 ol, ul {
 	list-style: none;
 }
@@ -59,88 +60,110 @@ body {
 	font-family: "Inter UI", "Inter", -apple-system, system-ui, sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
+	background-color: #fefcee;
 }
 
 p {
-	position: relative;
-	left: 25%;
-	margin-bottom: 0.7em;
-	margin-right: 0;
-	width: 55%;
+    position: relative;
+    left: 25%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 55%;
 }
 
 code {
-	font: normal normal;
-	font-size: 90%;
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
+    font: normal normal;
+    font-size: 90%;
+    font-family: Monaco,Menlo,monospace,sans-serif;
+    color: #aaa;
 }
 
 p code {
-	position: absolute;
-	left: -14%;
+    display: inline-block;
+    position: absolute;
+    width: 20%;
+    left: -27%;  /* Adjusted to match h2/h3 alignment */
+    text-align: right;
+    padding-right: 2%;
+}
+
+/* Ensure proper positioning context */
+p:has(code) {
+    position: relative;
 }
 
 ul { 
-	position: relative;
-	left: 25%;
-	width: 75%;
-	margin-bottom: 1.5em;
-	margin-top: -0.5em;
+    position: relative;
+    left: 25%;
+    width: 60%;  /* Match paragraph width exactly */
+    margin-bottom: 0.2em;  /* Match paragraph margin */
+    margin-right: 0;  /* Match paragraph margin */
 }
 
 li {
-	padding-left: 1.25em;
-	text-indent: -1.25em;
+    /* Remove padding and text-indent approach entirely */
+    margin-left: 1em;  /* Just use margin for bullet points */
+    list-style-type: disc;  /* Use standard bullets */
 }
 
 li ul {
-	position: relative;
-	left: 0;
-	width: 100%;
-	margin-top: 0.25em;
+    position: relative;
+    left: 0;
+    width: 100%;
+    margin-top: 0.25em;
 }
 
 h1,h2,h3,h4 {
-	font-weight: 400;
+	font-weight: 400;  /* Explicitly set normal weight */
 	font-family: "Inter UI", "Inter", -apple-system, system-ui, sans-serif;
 	width: 80%;
 }
 
 h1 {
+	font-weight: bold;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	margin-top: 1.5em;  /* Added top margin */
 }
 
-h1+p { 
+h1+p {
 	font-style: italic;
 	font-size: 110%;
 }
 
 h2 {
-	font-size: 1.1em;
-	color: #6c29ff;  /* Updated accent color */
-	margin-top: 3em;
-	position: relative;
-	top: 1.4em;
-	text-align: right;
-	width: 20%;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #6c29ff;
+    position: absolute;
+    width: 20%;
+    text-align: right;
+    padding-right: 2%;  
+    margin-top: 1.5em;  /*margin-bottom: 10em;*/
 }
 
 h3 {
-	font-size: 1em;
-	line-height: 2em; 
-	position: relative;
-	top: 1.7em;
-	text-align: right;
-	width: 20%;
+    font-size: 1em;
+    color: #aaa;
+    position: absolute;
+    width: 20%;
+    text-align: right;
+    padding-right: 2%;  /* Space between left column and main content */
 }
 
 a {
 	color: inherit;
+}
+
+a:link {
+	color: #6c29ff;
+}
+
+a:visited {
+  color: #6c29ff;
 }
 
 a:hover {
@@ -157,6 +180,7 @@ a:hover {
 }
 
 #webaddress a {
+	color: #6c29ff;  /* Updated accent color */
 	text-decoration: none;
 }
 
