@@ -95,15 +95,15 @@ p:has(code) {
 ul { 
     position: relative;
     left: 25%;
-    width: 60%;  /* Match the width of your regular text */
-    margin-bottom: 1em;
-    margin-top: 0;  /* Remove negative margin */
+    width: 60%;  /* Match paragraph width exactly */
+    margin-bottom: 0.2em;  /* Match paragraph margin */
+    margin-right: 0;  /* Match paragraph margin */
 }
 
 li {
-    padding-left: 1em;  /* Reduced padding */
-    text-indent: -1em;  /* Matching negative indent */
-    margin-bottom: 0.2em;  /* Add some spacing between list items */
+    /* Remove padding and text-indent approach entirely */
+    margin-left: 1em;  /* Just use margin for bullet points */
+    list-style-type: disc;  /* Use standard bullets */
 }
 
 li ul {
