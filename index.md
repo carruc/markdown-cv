@@ -49,6 +49,7 @@ __Politecnico di Milano, Milano__
 
 
 ## Experience
+<br />
 
 `03/2023 - 01/2024`
 **Software Engineer**, MoRe Modena Racing (Combustion, Hybrid)
@@ -64,6 +65,7 @@ __Politecnico di Milano, Milano__
 
 
 ## Projects
+<br />
 
 `07/2024 - 09/2024`
 **Bachelor Thesis: Energy Metrics for CMOS implementations of Spiking Neural Networks**, UniMoRe
@@ -92,6 +94,7 @@ __Politecnico di Milano, Milano__
 
 
 ## Certifications
+<br />
 
 `2024`
 - Attention Mechanism Overview, Google
