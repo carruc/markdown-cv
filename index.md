@@ -112,11 +112,8 @@ Developed functionality in Java
 
 `2024`
 Attention Mechanism Overview, [Google](https://www.cloudskillsboost.google/public_profiles/fb5984d0-d1bb-496c-8a74-57fe0e44c93b/badges/11688343?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)<br />
-
-Encoder-Decoder Architecture Overview, [Google](https://www.cloudskillsboost.google/public_profiles/fb5984d0-d1bb-496c-8a74-57fe0e44c93b/badges/11687200?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
-
-Introduction to Large Language Models, [Google](https://www.cloudskillsboost.google/public_profiles/fb5984d0-d1bb-496c-8a74-57fe0e44c93b/badges/11680893?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
-
+Encoder-Decoder Architecture Overview, [Google](https://www.cloudskillsboost.google/public_profiles/fb5984d0-d1bb-496c-8a74-57fe0e44c93b/badges/11687200?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)<br />
+Introduction to Large Language Models, [Google](https://www.cloudskillsboost.google/public_profiles/fb5984d0-d1bb-496c-8a74-57fe0e44c93b/badges/11680893?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)<br />
 Academic Writing Made Easy, [edX](https://courses.edx.org/certificates/1df4b633f8954c37aa0c338b83061222)
 
 `2022`
