@@ -70,15 +70,16 @@ p {
 }
 
 code {
-	font: normal normal;
-	font-size: 90%;
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
+    font: normal normal;
+    font-size: 90%;
+    font-family: Monaco,Menlo,monospace,sans-serif;
+    color: #aaa;
 }
 
+/* Default code positioning for most sections */
 p code {
-	position: absolute;
-	left: -14%;
+    position: absolute;
+    left: -14%;
 }
 
 ul { 
@@ -141,6 +142,19 @@ h3 {
 	top: 1.7em;
 	text-align: right;
 	width: 20%;
+}
+
+/* Special positioning for code under H3 sections */
+h3 + p code {
+    position: absolute;
+    left: auto;  /* Remove left positioning */
+    right: 85%;  /* Position from the right instead */
+}
+
+/* Ensure paragraphs after H3 have proper positioning context */
+h3 + p {
+    position: relative;  /* Create positioning context */
+    padding-top: 0.2em;  /* Small padding to prevent overlap */
 }
 
 a {
