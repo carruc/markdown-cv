@@ -3,7 +3,7 @@ layout: cv
 title: Pietro Carrucciu's CV
 ---
 # Pietro Carrucciu
-Computer Engineering graduate currently pursuing a Computer Science & Engineering Master's degree at Politecnico di Milano.
+CompSci & Engineering MSc @ Politecnico di Milano
 
 <div id="webaddress">
 <a href="mailto:pietro@carrucciu.com"><i class="fa-solid fa-envelope"></i> pietro@carrucciu.com</a>
