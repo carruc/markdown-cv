@@ -78,8 +78,11 @@ code {
 
 /* Default code positioning for most sections */
 p code {
+    display: inline-block;
     position: absolute;
-    left: -14%;
+    width: 20%;
+    left: -33%;  /* This puts it in line with h2/h3 */
+    text-align: right;
 }
 
 ul { 
@@ -144,21 +147,8 @@ h3 {
 	width: 20%;
 }
 
-/* Special positioning for code under H3 sections */
-h3 + p code {
-    position: absolute;
-    left: auto;  /* Remove left positioning */
-    right: 85%;  /* Position from the right instead */
-}
-
-/* Ensure paragraphs after H3 have proper positioning context */
-h3 + p {
-    position: relative;  /* Create positioning context */
-    padding-top: 0.2em;  /* Small padding to prevent overlap */
-}
-
 a {
-	color: inherit;
+	color: #6c29ff;
 }
 
 a:hover {
