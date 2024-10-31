@@ -28,8 +28,7 @@ Neuroscience, reading, music-making and climate change. I've taken part to a phi
 
 
 ## Education
-
-
+<br />
 `2016 - 2021`
 __ITIS E. Fermi, Modena__
 
