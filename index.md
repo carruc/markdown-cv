@@ -18,11 +18,12 @@ CompSci & Engineering MSc @ Politecnico di Milano
 <br />
 
 ### Degree
-Building a research-engineering hybrid profile. My ambition is optimizing efficiency and environmental impact of the current AI stack, improving models and training algorithms and developing real-world applications on the edge. To achieve this I'm specializing in ML, NLP, DL and AI, while following courses such as Distributed Systems and Computing Infrastructures.
+
+Currently trying to build a hybrid profile between a computer engineer and an AI research scientist.
 
 ### Opportunities
 
-Always seeking opportunities to contribute to innovative projects in AI and sustainable technology.
+Always seeking opportunities to contribute to innovative projects, especially in AI and sustainable technology. Hit me up!
 
 ### Research Ambitions
 
@@ -30,7 +31,7 @@ Statistical Learning, Machine Learning, Energy-Efficient AI, Neuromorphic Comput
 
 ### Beyond academics
 
-Neuroscience, reading, music-making and climate change. I've taken part to a philosophy study group for the last 3 years. 
+Reading, nature, music-making, neuroscience and climate change. I've also taken part to a philosophy study group for the last 3 years!
 
 
 ## Education:
