@@ -18,7 +18,7 @@ CompSci & Engineering MSc @ Politecnico di Milano
 <br />
 
 ### Degree
-Building a research-engineering hybrid profile. My ambition is optimizing efficiency and environmental impact of the current AI stack, improving models and training algorithms and developing real-world applications on the edge. To achieve this I'm specializing in ML, NLP, DL and AI, while following courses such as Distributed Systems and Computing Infrastructures.
+Currently trying to build a hybrid profile between a computer engineer and an AI research scientist.
 
 ### Opportunities
 
